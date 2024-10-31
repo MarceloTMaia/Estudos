@@ -1,0 +1,14 @@
+[
+    {
+        "cdb": 1,
+        "nome": "rrr",
+        "quantidade": 2,
+        "preco": 3.0
+    },
+    {
+        "cdb": 1,
+        "nome": "tttt",
+        "quantidade": 3,
+        "preco": 1.0
+    }
+]

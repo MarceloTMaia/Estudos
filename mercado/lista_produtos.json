@@ -1,0 +1,26 @@
+[
+    {
+        "cdb": 1,
+        "nome": "Coca-Cola 300 ml",
+        "quantidade": 20,
+        "preco": 3.99
+    },
+    {
+        "cdb": 2,
+        "nome": "Fanta Laranja 300 ml",
+        "quantidade": 20,
+        "preco": 3.5
+    },
+    {
+        "cdb": 3,
+        "nome": "Cerveja Devasa 350 ml",
+        "quantidade": 80,
+        "preco": 3.99
+    },
+    {
+        "cdb": 4,
+        "nome": "Cerveja Heineken 350 ml",
+        "quantidade": 120,
+        "preco": 5.99
+    }
+]
